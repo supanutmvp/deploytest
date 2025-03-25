@@ -31,7 +31,7 @@ export default function Home() {
               the built-in `next/font` instead. The `@next/font` package will be
               removed in Next.js 14. You can migrate by running `npx
               @next/codemod@latest built-in-next-font .`. Read more:
-              https://nextjs.org/docs/messages/built-in-next-font
+              https://nextjs.org/docs/messages/built-in-next-font Jrrrrr
             </div>
             <div className="col-span-1 drop-shadow-xl">
               <Image
